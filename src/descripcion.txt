@@ -1,0 +1,3 @@
+En el curso de hoy hemos aprendido a hacer repos, diferenciar entre
+local y remote, hacer push, pull, clone, etc.
+Además, al principio, hemos visto un poco la historia de los comienzos de git.
