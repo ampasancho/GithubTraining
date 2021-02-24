@@ -1,11 +1,13 @@
+
 def showNumbers:
     number = input("Introduce numero: ")
     for i in range(0, number+1)
         print(i + "\n")
     
-def isOdd:
-    number = input("Introduce numero: ")
-    if number%2:
-        print("Es impar")
+
+def par_impar(numero):
+    resto = numero % 2
+    if resto == 1:
+        return 1
     else:
-        print("Es par")
+        return 0
